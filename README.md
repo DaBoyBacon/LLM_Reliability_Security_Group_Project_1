@@ -1,5 +1,10 @@
 # LLM_Reliability_Security_Group_Project_1
 
+
+# Utilized Technologies
+## Prisma workflow
+https://github.com/CoLRev-Environment/prisma-flow-diagram
+
 # Magron
 
 found papers:
