@@ -1,0 +1,11 @@
+database,search_term,date,limits
+OU Libraries,"""Retrieval-Augmented Generation"" ""reranking"" similarity",TBC,TBC
+OU Libraries,correctness and factuality of the LLM responses,TBC,TBC
+ACM Digial Library,Data Poisoning && RAG,TBC,TBC
+ACL Anthology,retrieval augmented generation defense,"Sep. 25, 2026",None; ranked results screened by relevance
+Backward citation search,Reference list of EcoSafeRAG,"Sep. 27, 2026",Reference list of an included paper
+IEEE Xplore,RAG security defense overhead,"Sep. 30, 2026",Year 2023 to 2026; conferences and journals
+ACM Digital Library,rag defense latency overhead,"Oct. 2, 2026",Full Text Collection; year 2023 to 2026; research articles
+OU Libraries,"Unified Active Retrieval for Augmented Generation""",TBC,TBC (known item search)
+OU Libraries,"Critique through Self-Reflection""",TBC,TBC (known item search)
+OU Libraries,QuIM-RAG: Advancing Retrieval-Augmented Generation With Inverted Question Matching for Enhanced QA Performance,TBC,TBC (known item search)
