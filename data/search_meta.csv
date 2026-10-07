@@ -1,7 +1,7 @@
 database,search_term,date,limits
 OU Libraries,"""Retrieval-Augmented Generation"" ""reranking"" similarity",TBC,TBC
 OU Libraries,correctness and factuality of the LLM responses,TBC,TBC
-ACM Digial Library,Data Poisoning && RAG,TBC,TBC
+ACM Digial Library,Data Poisoning && RAG,"Sep. 28, 2026",year 2021 to 2026
 ACL Anthology,retrieval augmented generation defense,"Sep. 25, 2026",None; ranked results screened by relevance
 Backward citation search,Reference list of EcoSafeRAG,"Sep. 27, 2026",Reference list of an included paper
 IEEE Xplore,RAG security defense overhead,"Sep. 30, 2026",Year 2023 to 2026; conferences and journals
