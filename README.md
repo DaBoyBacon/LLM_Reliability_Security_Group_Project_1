@@ -37,24 +37,7 @@ RQ3: How does adding external retrieval introduce new attack surfaces for LLM sy
 RQ4: What happens to efficiency and reliability when we introduce security defenses into RAG?
 RQ5: How resistant are RAG systems to data poisoning?
 # More focused paper #Bijaya 
-Primary RQ
-
-To what extent does TrustRAG improve the trustworthiness of RAG-generated responses?
-
-SRQ1
-
-Can ontology-guided retrieval improve evidence relevance and grounding?
-
-SRQ2
-
-Can prediction-powered trust scoring reliably estimate hallucination risk?
-
-SRQ3
-Does integrating ontology-guided retrieval and trust scoring improve factual accuracy and reduce hallucinations?
- it directly maps with my architecture:
-
-Ontology/Knowledge Graph → SRQ1
-Prediction-Powered Trust Score → SRQ2
-Complete TrustRAG System → SRQ3
-
-and it aligns well with papers like OG-RAG, Knowledge Graph-Guided RAG, Self-RAG, FactReasoner, GraphEval, ARES, and RAGAS.
+RQ1: Does knowledge graph-guided retrieval improve retrieval relevance in RAG?
+RQ2: Does RAG reduce hallucinations and remove unnecessary retrieval with Self Evaluation using Supervised Model?
+RQ3: Can prediction-powered evaluation predict hallucination risk?
+ papers like Self-RAG, FactReasoner, GraphEval, are closer.
